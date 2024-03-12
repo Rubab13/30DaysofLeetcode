@@ -7,7 +7,6 @@ class Solution {
             System.out.println("The given string is not a palindrome.");
         }
     }
-    
     public static boolean isPalindrome(int x) {
         char ch;
         String result = "";
